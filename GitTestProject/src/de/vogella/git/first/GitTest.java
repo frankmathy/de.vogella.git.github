@@ -6,7 +6,7 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Git is fun, but can even be better!!");
+		System.out.println("Git is fun, but can even be better!!!!!");
 	}
 
 }
